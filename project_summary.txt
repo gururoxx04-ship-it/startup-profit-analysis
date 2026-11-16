@@ -1,0 +1,15 @@
+
+STARTUP PROFIT ANALYSIS PROJECT
+
+Total Startups: 50
+Average Profit: 112012.64
+Highest Profit: 192261.83
+Lowest Profit: 14681.40
+
+MODEL PERFORMANCE
+
+Mean Absolute Error: 6979.15
+R2 Score: 0.9001
+
+The project used Multiple Linear Regression to predict startup profit
+based on R&D, Administration, and Marketing spending.
